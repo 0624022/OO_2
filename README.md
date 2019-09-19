@@ -37,6 +37,7 @@
 |:------|:------:|-----:|
 |1|2|3|
 
+```
 public static void main(String args[])
 {
 System.out.println("1!*2!*...*4!="+fac(4));
@@ -53,3 +54,4 @@ s *= i;
 return s*fac(n-1); 
 }
 }
+```
