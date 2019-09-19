@@ -20,6 +20,6 @@
 >>板橋區
 
 
-*red
-*green
-*blue
+* red
+* green
+* blue
