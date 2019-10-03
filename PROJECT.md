@@ -17,7 +17,7 @@
 
 ![3](3.png "3")
 
-![1](1.jpg "1")
+![example3](example3.jpg "example3")
 ***
 ### 使用案例
 
@@ -46,7 +46,7 @@
 ![example2](example2.jpg "example2")
 
 ##### 案例3
-![example3](example3.jpg "example3")
+
 
 ***
 ### 
