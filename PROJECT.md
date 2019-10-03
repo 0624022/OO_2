@@ -43,6 +43,7 @@
 9.店家獲取曝光度與知名度
 
 ##### 案例2
+![example2](example2.jpg "example2")
 
 ***
 ### 
