@@ -18,7 +18,7 @@
 功能性需求:此程式能能事先規劃景點、提供紀錄功能、誘因制度-如解鎖成就，領取優惠券打卡分享行蹤。
 ***
 ### 案例圖
-![2](Untitled Diagram.png "使用案例圖")
+![Untitled Diagram.png](Untitled Diagram.png "使用案例圖")
 ***
 ### 使用案例
 
