@@ -106,8 +106,12 @@
 ### 系統循序圖
 ![SystemSequenceDiagram](108-1_OO_SystemSequenceDiagram.png "SystemSequenceDiagram")
 
+***
+### 強韌圖
+![強韌圖](強韌圖.png "強韌圖")
 
-##改類別圖，循序圖，系統循序圖，強韌圖，非功能性需求，企業方user story，使用案例圖變一個使用者
+
+##改類別圖，循序圖，系統循序圖，非功能性需求，企業方user story，使用案例圖變一個使用者
 
 
 
