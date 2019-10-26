@@ -100,11 +100,11 @@
 
 ***
 ### 系統循序圖
-![SystemSequenceDiagram](108-1_OO_SystemSequenceDiagram.png "SystemSequenceDiagram")
+![SystemSequenceDiagram](108-1_OO_SystemSequenceDiagram_.png "SystemSequenceDiagram")
 
 ***
 ### 強韌圖
-![強韌圖](強韌圖.png "強韌圖")
+![強韌圖](強韌圖呦.png "強韌圖")
 
 
 ##改類別圖，循序圖，系統循序圖，使用案例圖變一個使用者
