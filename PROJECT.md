@@ -100,6 +100,10 @@
 
 ![Step](類別圖_1.jpg "類別圖_1")
 
+(2)旅遊資訊
+
+(3)社群
+
 ***
 ### 系統循序圖
 ![SystemSequenceDiagram](108-1_OO_SystemSequenceDiagram_2.png "SystemSequenceDiagram")
