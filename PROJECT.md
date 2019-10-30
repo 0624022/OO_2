@@ -114,6 +114,17 @@
 
 ***
 ### 循序圖
+(1)紀錄足跡
+
+![Sequence_Diagram_1](Sequence_Diagram_1.png "Sequence_Diagram_1")
+
+(2)旅遊資訊
+
+![Sequence_Diagram_2](Sequence_Diagram_2.png "Sequence_Diagram_2")
+
+(3)社群
+
+![Sequence_Diagram_3](Sequence_Diagram_3.png "Sequence_Diagram_3")
 
 
 ***
