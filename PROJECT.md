@@ -135,7 +135,7 @@
 ***
 
 ### 循序圖整合
-![Sequence_Diagram_整合](Sequence_Diagram_整合.png "Sequence_Diagram_整合")
+![Sequence](Sequence_diagram_整合.png "Sequence_Diagram_整合")
 
 
 
