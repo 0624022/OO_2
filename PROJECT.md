@@ -132,7 +132,10 @@
 ### 強韌圖
 ![強韌圖](強韌圖.png "強韌圖")
 
+***
 
+### 循序圖整合
+![Sequence_Diagram_整合](Sequence_Diagram_整合.png "Sequence_Diagram_整合")
 
 
 
