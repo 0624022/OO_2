@@ -38,21 +38,39 @@
 |1|2|3|
 
 ```js
-public static void main(String args[])
+abstect class CShape
 {
-System.out.println("1!*2!*...*4!="+fac(4));
+  protected String color;
+  public void setColor(String str)
+  {
+   color=str;
+  }
+ 
 }
-public static int fac(int n) // fac() method
+
+class CTriangle extends CShape
 {
-if(n==0) 
-return 1;
-else{
-int s = 1;
-for (int i=1;i <= n;i++){
-s *= i;
+  protected double a,b,c;
+  public CCircle(double a,double b,double c)
+  {
+  this.a=a;
+  this.b=b;
+  this.c=c;
+  }
+  public void show()
+  {
+   system.out.print("color="+color+",  ");
+   system.out.println("area="+a*b/2);
+  }
 }
-return s*fac(n-1); 
-}
+public class app11_1
+{
+  public static void main(String args[])
+  {
+   CTriangle tri = new CTriangle(3,4,5);
+   tri.setColor("Red");
+   tri.show();
+  }
 }
 ```
 
