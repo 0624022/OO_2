@@ -1,3 +1,4 @@
+```js
 public interface Shape
 {
    double getArea();
@@ -48,3 +49,4 @@ public class Triangle implements Shape {
       return 0.5 * base * height;
    }
 }
+```
